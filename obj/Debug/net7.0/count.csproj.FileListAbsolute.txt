@@ -1,0 +1,15 @@
+C:\Users\efrem\OneDrive\Рабочий стол\count\bin\Debug\net7.0\count.exe
+C:\Users\efrem\OneDrive\Рабочий стол\count\bin\Debug\net7.0\count.deps.json
+C:\Users\efrem\OneDrive\Рабочий стол\count\bin\Debug\net7.0\count.runtimeconfig.json
+C:\Users\efrem\OneDrive\Рабочий стол\count\bin\Debug\net7.0\count.dll
+C:\Users\efrem\OneDrive\Рабочий стол\count\bin\Debug\net7.0\count.pdb
+C:\Users\efrem\OneDrive\Рабочий стол\count\obj\Debug\net7.0\count.csproj.AssemblyReference.cache
+C:\Users\efrem\OneDrive\Рабочий стол\count\obj\Debug\net7.0\count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrem\OneDrive\Рабочий стол\count\obj\Debug\net7.0\count.AssemblyInfoInputs.cache
+C:\Users\efrem\OneDrive\Рабочий стол\count\obj\Debug\net7.0\count.AssemblyInfo.cs
+C:\Users\efrem\OneDrive\Рабочий стол\count\obj\Debug\net7.0\count.csproj.CoreCompileInputs.cache
+C:\Users\efrem\OneDrive\Рабочий стол\count\obj\Debug\net7.0\count.dll
+C:\Users\efrem\OneDrive\Рабочий стол\count\obj\Debug\net7.0\refint\count.dll
+C:\Users\efrem\OneDrive\Рабочий стол\count\obj\Debug\net7.0\count.pdb
+C:\Users\efrem\OneDrive\Рабочий стол\count\obj\Debug\net7.0\count.genruntimeconfig.cache
+C:\Users\efrem\OneDrive\Рабочий стол\count\obj\Debug\net7.0\ref\count.dll
